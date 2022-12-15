@@ -1,0 +1,15 @@
+/bin/
+/test-output/
+/logs/
+.classpath
+.project
+.settings
+/target/
+/doc/
+
+.idea
+*.iws
+*.iml
+*.ipr
+package*.json
+node_modules/
